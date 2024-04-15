@@ -1,0 +1,24 @@
+name: Unnamed Rye Lemon Drink
+ingredients:
+  - name: whiskey/rye
+    amount: 3 oz
+  - name: lemon
+    amount: 1/2
+  - name: simple syrup
+    amount: 0.5 oz
+  - name: cherry juice
+    amount: 1 cocktail stirring spoon
+    optional: true
+  - name: black walnut bitters
+    amount: 2 dashes
+    optional: true
+serve: lowball
+steps:
+  - fill cocktail mixer with ice
+  - pour 3 oz rye
+  - squeeze 1/2 lemon
+  - pour 1 cocktail stirring spoon of cherry juice
+  - pour 0.5 oz simple syrup
+  - fill lowball with ice
+  - pour contents of mixer through strainer into lowball
+  - add 2 dashes black walnut bitters

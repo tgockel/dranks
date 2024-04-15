@@ -1,0 +1,21 @@
+name: Semi Pineapple Margarita
+ingredients:
+  - name: tequila/reposado
+    amount: 3 oz
+  - name: orange liqueur
+    specific: Pierre Ferrand Dry Curacao
+    amount: 1 oz
+  - name: lime
+    amount: 1
+  - name: pineapple juice
+    amount: 0.5 oz
+    optional: true
+    replacement: any citrus juice
+serve: pint glass
+steps:
+  - fill pint glass with ice
+  - put all ingredients into the ice-filled pint glass
+  - pour everything in the pint glass into a cocktail shaker
+  - pause for 1 second
+  - pour everything back from the cocktail shaker into the pint glass
+  - serve in the pint glass
