@@ -1,0 +1,20 @@
+name: "Arnold Schnapps 'n Jäger"
+ingredients:
+  - name: Jägermiester
+    amount: 2 parts
+  - name: peach schnapps
+    amount: 1 part
+  - name: cranberry juice
+    amount: 1 part
+  - name: lemonade
+    amount: 0.5 part
+serve: shots
+steps:
+  - fill cocktail shaker with ice
+  - pour ingredients into cocktail shaker, scaling as needed (if "1 part" is "1 oz", the recipe makes 2 shots)
+  - strain into shot glasses
+  - >
+    Listen up everybody, we're going to play a game called "The Arnold Schnapps 'n Jäger."
+    After drinking the shot, each member drinking the shot must say an Arnold Schwarzenegger one-liner that is unique to the group to the night.
+    If someone says "I'll be back," that quote is terminated for the evening.
+    Repeating a quote or being unable to totally recall a quote means you are sent to the chopper (which, in this case, means you take another shot).
