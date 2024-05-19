@@ -1,0 +1,19 @@
+name: Espresso Rumtini
+ingredients:
+  - name: espresso
+    amount: 2 oz
+  - name: vodka
+    amount: 2 oz
+    specific: Elit
+  - name: coffee rum
+    amount: 1 oz
+    specific: Koloa Coffee Rum
+  - name: simple syrup
+    amount: 0.5 oz
+serve: martini glass
+steps:
+  - pour a double shot of espresso into a cup and let it cool
+  - pour all the ingredients into an ice-filled cocktail shaker
+  - shake vigorously
+  - pour hard into a martini glass
+  - garnish with a couple espresso beans
